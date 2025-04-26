@@ -1,0 +1,133 @@
+- Stell dir ein Hotel mit unendlich vielen Zimmern vor.
+Sie sind mit eins, zwei, drei, vier und so weiter nummeriert.
+Dies ist das Hilbert Hotel und du bist der Manager.
+Jetzt wirkt es vielleicht so,
+als ob du für jeden der kommt eine Unterkunft hast,
+doch es gibt ein Limit, eine Möglichkeit,
+um selbst die unendlich vielen Zimmer des Hilbert Hotels auszulasten.
+Um anzufangen, sagen wir, dass in jedes Zimmer nur eine Person darf
+und alle Zimmer sind belegt.
+Es sind unendlich viele Personen
+in unendlich vielen Zimmern.
+Nun kommt ein neuer Gast und möchte ein Zimmer,
+aber alle Zimmer sind belegt.
+Was kannst du tun?
+Gut, ein schlechterer Manager würde die Person vielleicht wegschicken,
+doch du kennst dich mit Unendlichkeit aus.
+Also machst du eine Durchsage
+und bittest alle Gäste ein Zimmer weiter zu wandern.
+Also geht die Person im ersten Zimmer, in das zweite,
+die im Zweiten Zimmer geht ins dritte,
+und so weiter.
+Und im Anschluss kann der neue Gast das erste Zimmer belegen.
+Wenn ein Bus mit 100 Passagieren ankommt,
+weißt du genau was zu tun;
+alle müssen um 100 Zimmer weiterrücken
+und du stellst den neuen Gästen die freigewordenen Zimmer.
+Doch sagen wir mal es kommt ein unendlich langer Bus,
+der unendlich viele Passagiere hat.
+Du wusstest was du mit einer endlichen Anzahl an Gästen tust,
+aber wie agierst du bei unendlich vielen?
+Du denkst kurz darüber nach
+und legst dir einen Plan zurecht.
+Du sagst jedem deiner aktuellen Gäste
+in das Zimmer zu gehen mit der doppelten Zimmernummer.
+Das heißt die Person im ersten Raum geht in den Zweiten,
+Zimmer Zwei zieht in Zimmer vier,
+Zimmer drei geht in Nummer sechs und so weiter.
+Anschließend sind alle Zimmer mit ungerader Zahl wieder frei
+und da es, wie du weißt, unendlich viele ungerade Zahlen gibt,
+kannst du jeder einzelnen Person im unendlichen Bus
+ein eigenes Zimmer mit ungerader Zahl geben.
+Es wirkt so, als ob jeder in dieses Hotel passt.
+Und das ist die Schönheit der Unendlichkeit. Sie geht ewig weiter.
+Und plötzlich fahren mehrere unendlich große Busse vor.
+Doch nicht nur einer oder zwei,
+sondern unendlich viele unendlich große Busse.
+Was kannst du tun?
+Du legst natürlich eine unendlich große Tabelle an.
+Für jeden Bus erstellst du eine Zeile;
+Bus 1, Bus 2, Bus 3 und so weiter.
+Und ganz oben eine Zeile
+für alle aktuellen Gäste im Hotel.
+Die Spalten sind für jedes belegte Zimmer.
+Also hast du Hotelzimmer eins, Hotelzimmer zwei,
+Hotelzimmer drei, et cetera.
+Und Bus Eins, erster Platz; Bus Zwei, zweiter Platz;
+Bus Eins, dritter Platz und so weiter.
+So bekommt jeder eine individuelle Kennung
+welche aus der Kombination von Bus und Platz zusammengesetzt ist.
+Wie teilst du hier die Zimmer zu?
+Fang in der oberen linken Ecke an
+und zeichne eine Linie die im Zickzack hin und her
+über die Tabelle verläuft
+und jede einzigartige Kennung einmal berührt.
+Dann stell dir vor, wie du an den beiden Enden der Linie ziehst
+und sie gerade machst.
+Also sind wir von einer unendlich mal unendlich großen Tabelle
+zu einer unendlich langen Zeile gekommen.
+Ab hier ist es wieder einfach
+jeden der Passagiere so aufzureihen,
+dass auch jeder sein eigenes Zimmer im Hotel bekommt.
+Also passt es, kein Problem.
+Doch nun fährt ein großer Bus vor.
+Ein unendlich großer Partybus ohne Sitzplätze.
+Stattdessen weißt sich jeder nur
+mit seinem einzigartigen Namen aus, was etwas seltsam ist.
+Ihre Namen bestehen nur aus den zwei Buchstaben, A und B.
+Doch jeder Name ist unendlich lang.
+Einer heißt zum Beispiel: ABBAAAAAAAAA
+und ewig weiter so.
+Ein anderer heißt: ABABABABAB, et cetera.
+In diesem Bus gibt es für jeden möglichen Namen,
+aus einer unendlichen Anreihung dieser Buchstaben, eine Person.
+Nun kommt, ABBAAAA, nennen wir ihn kurz ABBA,
+in dein Hotel um die Zimmer zuzuteilen,
+doch du sagst ihm:
+"Entschuldigen Sie, doch es gibt keine Möglichkeit alle im Hotel unterzubringen"
+Und er fragt, "Was meinen Sie?
+Wir sind unendlich viele
+und Sie haben unendlich viele Zimmer.
+Warum sollte das nicht funktionieren?"
+Also zeigst du es ihm auf.
+Du holst wieder die unendlich große Tabelle hervor
+und teilst den Passagieren Zimmer zu.
+Also geht Zimmer Eins an ABBA,
+und anschließend Zimmer zwei an ABABABAB...
+Und du machst weiter damit zu jedem Zimmer
+eine andere Anreihung von As und Bs den Zimmernummern zuzuteilen.
+"Und hier liegt das Problem.", sagst du ABBA,
+"Sagen wir, dass wir eine komplette unendliche Liste haben,
+so kann ich dennoch den Namen einer Person schreiben,
+die noch kein Zimmer hat.
+Das machst du indem du den ersten Buchstaben
+des ersten Namens nimmst und ihn von A zu B änderst.
+Dann nimmst du den zweiten Buchstaben des nächsten Namen
+und tauschst ihn von B zu A.
+Und das machst du mit der ganzen Liste.
+Und mit Sicherheit wird der Name den du notiert hast,
+nirgends sonst auf der Liste sein.
+Denn er fängt nicht mit dem ersten Buchstaben des ersten Namen an,
+oder dem zweiten, des zweiten Namen,
+oder dem dritten, des dritten Namen.
+Der Name wird anders sein als jeder andere auf der Liste
+auch wenn es nur an einer Stelle ist.
+Der Buchstabe auf der Diagonale.
+Die Zimmeranzahl des Hilbert Hotels mag zwar unendlich sein,
+doch es ist abzählbar Unendlich.
+Was bedeutet, dass es so viele Zimmer
+wie positive Zahlen von eins bis Unendlich gibt.
+Im Gegensatz ist die Anzahl der Passagiere im Bus
+überabzählbar Unendlich.
+Wenn du versuchst jeden davon einer Zahl zuzuordnen
+hast du immer noch Personen über.
+Manche Unendlichkeiten sind größer als andere.
+Also gibt es ein Limit an Personen,
+welche ins Hilbert Hotel gehen können.
+Das ist schon unglaublich genug,
+was aber noch verrückter ist,
+ist das die Entdeckung verschieden großer Unendlichkeiten
+eine Reihe an Untersuchungen losgetretten hat, die zur Erfindung des Gerätes geführt haben.
+auf dem du das hier gerade anschaust.
+Doch das ist eine Geschichte für ein anderes mal.
+
