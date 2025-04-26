@@ -1,0 +1,298 @@
+42년 동안 물리학을 공부하며 살아온 대릭조차도 잘못 이해하고 있던 사실이 하나 있습니다 세상의 모든 물체가
+오직 하나의 경로 하나의 괴정만을 따라 움직인다고 믿어왔죠 이번 영상은
+그게 사실 아니라는 것을 보여 드리는 영상입니다 사실은 세상의 모든 것은
+가능한 모든 경로를 동시에 탐색하고 있습니다
+여러분이 여름 휴가를 맞아 친구들과 함께 해변에 놀러 갔다 해보죠 그런데 이때 친구가 불에 빠졌습니다 당연히
+가능한 빨리 구해 줘야겠죠 어떤 경로로 가는게 가장 빠를까요
+거리가 가장 짧은 건 직선일 겁니다 a에서 B를 잇는 직선으로 가면 이동
+경로는 가장 짧죠 하지만 절반은 뛰어가고 절반은 수영해서 가야 해서 높은 확률로 여러분의 수용 속도는
+달리기보다 느릴 거라 차라리 많이 뛰어가고 헤엄칠 거리를 줄이는게 나을 수도 있습니다 물론 지금은 너무
+극단적이고 실제로 최적의 경로는 뛰는 거리와 헤엄칠 거리를 적절히 배분하면
+됩니다 조금 더 정확하게는 달리는 속도와 수용하는 속도에 따라 다음과 같이 구할 수 있죠 자 이제 재밌는
+걸 알려 드릴게요.이 수학적 원리는 정확하게 빛이 한 매질에서 다른 매질로 전달될 때 적용되는 법칙과
+같습니다 다른 말론 빛의 궤적은 A지점에서 B점으로 가는 가장 빠른 경로라는 거죠 저희는 친구가 어디
+있는지 아니까 최적의 경로를 구할 수 있습니다 하지만 빛은 어떻게 이동
+시간을 최소화하는 경로를 찾을 수 있을까요?ception now here is
+wherecep
+dire을 만났을 때 그 매질과 상호작용하면서 방향이 바뀌는 거라고
+생각했습니다 다른 매질을 만났으니 그에 따라 변화가 생기고 그로 인해 B 지점에 도달하는 것이며 그저 그
+결과가 가장 빠른 경로일 뿐이라고 생각했죠 이게 무슨 빛이 가장 빠른
+경로를 탐색해서 가는게 아니라 그냥 매질과의 상호작은 규칙에 의해서 자연스럽게 일어나는 일이라 생각한
+거죠 i will prove to that light doesn't set out in only one direction instead it
+really does explore all possible paths and the same is true for electrons and protons all quantum
+particles so the fact that we see things on single welldeined trajectories is in a
+way the most convincing illusion nature has ever devised and the way it works all comes
+down to known as 작용량.이 이 작용이라는 개념은
+Black Body Radiation
+글이 잘 알려지지 않은 프랑스 과학자 모르페르티가 처음으로 제안했습니다
+정의는 단순합니다 질량 곱하기 속도 곱하기 거리이죠 모르페르티는 세상의 모든
+물체가 항상 작용량을 최소화하는 경로를 따른다고 주장했습니다 나중에
+해밀턴이 작용이란 운동 에너지와 퍼텐셜 에너지 차이를 시간에 따라 누적한 값과 같다는 것을 보였죠
+뉴턴 역학으로 풀기에 복잡했던 문제들도 작용량으로 간단히 풀 수 있었습니다 20세기가 되면서이
+작용이란 개념의 위상은 어마무시하게 높아지는데요 바로 양자역학의 탄생과 함께 말이죠 이야기는 1890년대
+독일에서 시작됩니다
+[음악]
+독일 정부는 거리에 있던 수많은 기존의 가스 등을 모두 전기 조명으로 바꾸려 했습니다 전구 필라멘트 더
+밝게 빚내게 하기 프로젝트가 시작되었죠 독일의 PTR 연구소에서는 다양한
+재료를 필라멘트로 사용해 가열해 보고 얼마만큼의 빛을 방출하는지 실험했습니다 가열 온도가 낮을 때는
+재료마다 서로 다른 특정한 파장의 빛이 방출되었습니다 주로 저선이었죠 그런데 온도가 500도를 넘어서면
+어떤 재료를 사용하든 거의 비슷한 파장에 빛을 내기 시작했습니다 온도가
+올라갈수록 방출되는 에너지량은 모든 파장에서 더 높아졌고 에너지
+스펙트럼의 피크는 점점 짧은 파장 쪽으로
+이동했습니다 가장 단순한 물체 하나를 가정해 보겠습니다 모든 빛을 흡수하고
+오직 온도에 따라서만 복사를 하는 물체 바로 완전 흑체입니다 과학자들은
+금속 큐브에 아주 작은 구멍을 내서 이런 조건을 만족하는 실험 장치를 만들었습니다.이 이 구멍으로 들어간
+빛은 내부에서 수없이 반사되다가 결국엔 모두 흡수되고 반대로 내부에서
+방출되는 빛은 구멍을 통해 빠져나올 수 있게 설계되어서이 구멍은 일종의
+완전 흑체라고 생각할 수 있을 겁니다 금속 큐부 벽면 내부에 있는 전자들이
+움직이면서 전자기파를 방출한다고 가정해 보겠습니다.이 전자기파는 벽면에 반사되며 자기 자신과 간섭을
+일으킬 겁니다 특히 서로 반대 방향에 같은 주파수인 주황과 파랑투 파동이
+만나면 초록색 파동이 생기는데 간섭에 의의 징폭이 0인 마디와
+최댓값인 배가 생기게 됩니다 이런 초록색 같은 파동은 좌우로 움직이지
+않기 때문에 정상파라고 부릅니다 시간이 충분히 흐르면 금속
+큐브 안에는 이런 정상파만 남게 될 겁니다 다른 파동들은 간섭에 의해
+모두 사라지죠 무질서 속에서 질서가 관측되는 순간이죠
+학교에서 배우지 않은 2차원에서의 정상파 모습입니다 화장이 짧고
+주파수가 높을수록 더 다양한 형태의 정상파를 만들 수 있죠 3차원 공간에서 가능한 파동 모드의
+수는 주파수의 세제곱 또는 파장 세제곱의 역수와 비례합니다
+그래서 나온게 바로 레일리 진스 법칙입니다 긴파장 영역에서는 실험
+결과와 잘 맞았습니다 그런데 짧은 파장 쪽으로 가면 갈수록 이론과
+실험이 완전히 다르게 나왔는데요 레일리 진스 법칙은 짧은 파장에서 무한한 에너지가 방출된다고
+예측했었지만 그렇지 않았죠 이게 바로 악명 높은 자회선
+How did Planck solve the ultraviolet catastrophe?
+파탄입니다.이 이 문제를 해결한 사람은 바로 그 유명한 박스 플크입니다 plk almost
+makeudingysics because when he was years old he went up professor and asked him "Well maybe I
+could do a career in physics." To which his professor responded that he better find another
+field to do research in because physics was essentially a complete science you know there was just
+a few tiny little problems that they had to clean up but besides that it was over
+다행히도 교수님 말씀을 듣지 않고 본인이 직접 교수가 되었죠 3년 동안
+막스 플랑크는 흑체 복사의 이론적 해답을 찾기 위해 온갖 방법을 시도했습니다 매일매일 머리카락을 한
+가닥씩 희생해 가며 수많은 가설을 세웠지만 모두 실패하고 머리도 빠졌죠 나는 기존 물리법칙에 대한 내 모든
+믿음을 다 내려놓을 준비가 되어 있다라고 말하기까지 했습니다 그러던 어느 날 플랑크는
+진짜 절박함의 끝에서 아무도 생각하지 못한 아이디어를 시도합니다 당시 고존
+물리학에서 전자기파의 에너지는 진폭에만 비례한다고 여겨졌습니다 파장이나 주파수한 상관없이요 그리고
+그 에너지는 연속적으로 나올 수 있다고 믿었죠 모든 원자가 이미의 에너지를 가지고 이미의 파장을 방출할
+수 있었던 겁니다 여기서 플랑크는 전혀 다른 가정을 했습니다 에너지는
+아무값이나 가질 수 있는게 아니라 아주 작은 단위 퀀텀으로 나눠져 있고 그 최소 단위 에너지는 주파수에
+비례한다 이게 바로 그 유명한 식 e= HF H는 플랑크
+상수죠.이 가정을 적용하면 뭐가 달라지는 걸까요 온도가 올라간 흑체 내부의 원자들은
+에너지가 적은 원자도 있고 많은 원자도 있고 대부분은 그 사이
+어딘가에 있을 겁니다 긴 파장 즉 낮은 주파수의 빛은 양자 하나하나가
+가지는 에너지가 작기 때문에 웬만한 원자나 물질은 가지고 있는 에너지로
+충분히 이런 빛을 만들어 낼 수 있습니다 그래서 긴 파장의 영역에서는 레일리진스 법칙과 잘 맞는 거죠
+하지만 파장이 짧아질수록 주파수가 높아질수록 양자의 에너지가 증가합니다
+이젠 많은 원자들이이 정도의 빛을 방출할 에너지가 없는 상태가 되죠 레일리 진스 법칙이 맞지 않는 이유가
+바로 이겁니다 파장이 짧아지면 짧아질수록 아예 그 파장을 방출할 수
+있는 원자가 있을 확률이 0에 수렴하죠 그래서 스펙트럼은 특정 지점
+이후로 급격히 떨어지다가 결국 0에 가까워지는 겁니다 이렇게요
+플랑크는 이러한 방식의 새로운 복사 스펙트럼 공식을 만들어냈고 실험
+데이터에 맞춰서 플랑크 상수 h값을 구한 결과 이론과 실험이 동일한
+결과를 나타내게 되었죠 sort of troubled
+The Quantum of Action
+by his own formula because to him it was just a mathematical trick he had no clue why it worked it was
+purely formal and most importantly he had no clue what this h represented i
+mean he had introduced a new physical constant without any reason
+플랑크 막스 노트에는 이런 말도 적혀 있었습니다 나는 어떤 대를 치르더라도이 식의 물리적 의미를
+밝혀내야만 한다 그리고 몇 주 뒤 플랑크막스는 내 인생에서 가장
+치열했던 몇 주가 지나고 나서야 마침내 어둠속의 빛이 들어왔고
+상상조차 못했던 새로운 세계가 눈앞에 열렸다고 말했습니다 [음악]
+[음악] 플크의 이론은 자연에서 일어나는 모든
+변화는이 양자화된 작용의 정수배로 이루어진다는
+이퀀텀 of 액션이라는 개념은 초기에는 큰 주목을 받지 못했습니다 하지만 1905년 26살의 특허청정
+직원이 등장하죠 말 안 해도 아시겠죠 아이슈타인은 플랑크 이론이 단순한
+수학적 트릭이 아니라고 하며 빛은 실제로 개별적 에너지 묶음 즉 광자
+형태로 존재하며 각각의 광자는 에너지가이는 HF로 주어진다고 말했죠 아이슈타인은이 아이디어 가지고 광전
+효과를 설명합니다 주파수가 높은 빛은 광자 하나가 가진 에너지가 크기 때문에 금속 평면의 전자를 밖으로
+튕겨낼 수 있는 반면 빛의 주파수가 충분히 높지 않으면 아무리 빛의 세기가 커도 전자는 방출되지 않죠
+8년 후 닐스 보어는 원자의 안정성을 고민하게 됩니다 원자액은 양전화를
+뛰고 있고 그 주변을 전자가 돌고 있는데 전자가 계속 에너지를 방출하면서 돌면 결국 원자에게 빨려
+들어가야
+정상이잖아요 보호의 생을 살펴보죠.전 전자가 원자의 주위를 돌 때 각
+운동량을 가질 겁니다 각 운동량이란 질량 곱하기 속도 곱하기 반지름이죠
+그런데이 가군동량 단위가 바로 작용과 동일합니다
+전자의 각 운동량은 플랑크 상수 H의 한 배 두 배 세 배 정수배로만
+존재할 수 있다 전자의 운동은 원을 도는 운동이기 때문에 2파이가 들어갈
+겁니다 이걸 더 줄여서 NH 바라고 부르기도 하죠
+하지만이 공식을 사용하면 수소 원자의 정확한 에너지 준위를 예측할 수 있습니다 전자가 더 높은 궤도에서
+낮은 궤도로 떨어질 때 그 에너지 차이가 빛 즉 광자로 방출됩니다 그리고 그 빛의 파장은 수소 원자의
+스펙트럼과 완벽히 일치했죠
+[음악]
+네 그렇게 하면 다 잘 맞아 떨어졌습니다 그리고 그 누구도 이해할 수 없었죠 이게 밝혀진 건 무려
+De Broglie’s Hypothesis
+11년 이후입니다 루이드 브로이라는 박사 과정 학생이 당시 물리학의 최신 발견들을 가지고
+고민하다 엄청난 생각을 떠올립니다 그 생각은 바로 빛이 입자이자 파동이라면
+물질 입자도 파동일 수 있지 않을까라는 생각이었죠 그는 모든 물체
+전자 농구공 사람 그 모든 것들이 파장을 가져야 한다고 생각했습니다
+그리고 그 파장의 크기를 이렇게 정리했죠 플랑크 상수를 입자의 모멘텀으로 나눈 것을 올요 즉 질량
+곱하기 속도 말이죠 자 만약 전자가 파동이라면 원자액
+주의를 돌 때 반드시 정상파 상태여야만 합니다 그게 아니면 스스로 간섭을 일으켜 사라져 버리거든요
+정상파가 되려면 궤도를 한 바퀴 도는 길이 즉 원의 둘레 길이가 파장
+람다의 정수배가 되어야 합니다 이걸 식으로 쓰면 2파이 r은
+n람다 n은 정수일 때입니다 여기에 드블로이의 파장식을 대입하면 2파이은
+MV분의 NH가 됩니다 이걸 정리하면 뭐가 나올까요 mvr은 2파분의
+NH로 정리할 수 있을 겁니다 집중해서 보고 계시나요
+이건 보어의 양자와 조건과
+동일합니다 that's pretty good you get a dissertation out of that that's pretty good it is wave
+nature of quantum objects that means they no longer have a single path through space
+The Double Slit Experiment
+저는 이중슬 실험을 여러 유튜브 영상을 통해서도 보고 혼자서도 공부하고 찾아봤지만 그게 의미하는
+바를 깊게 이해하지는
+못했었습니다 하지만 한 교수님의 강의를 듣고 이해 당해
+버렸습니다.이 교수님은 이렇게 설명했습니다 전자들을 한 번에 하나씩
+쏘아서 두 개의 슬릿을 통과하게 할 겁니다 양자 역학에선 우리가 그
+전자가 어느 슬릿을 통과했는지 확정할 수 없다면 전자는 두 슬릿을 동시에
+통과한 것이라고 말하죠 그래서 전자가 특정한 위치에 도달할 확률을 구할 때는 각 슬릿을 통과한
+파동의 진폭을 더한 다음 그걸 제곱하면 됩니다 하지만이 설명을들은 학생 한
+명이 이렇게 질문했죠 만약 슬릿이 세 개라면요 교수님의 대답은 그러면 세
+개의 슬릿을 통과한 파동의 진폭을 전부 더한 뒤 제곱하면 된다는 거였습니다 그런데 질문이 다시
+나옵니다.네 개면요 다섯 개면요 교수님 약간
+짜증났죠 같은 원리야 슬릿이 여섯 개든 일곱 개든 모든 슬릿을 통과한
+파동 진폭을 다 더하면 돼 몇 개든 상관없지 하지만이 존경스러운 학생은
+교정님의 표정보다 호기심이 먼저였습니다 만약 슬릿을 무한히 많이
+만들면요 스크린 전체를 슬릿으로 만들면 어떻게 되죠 그리고 그다음
+스크린 그다음 스크린까지 무한히 많은 슬릿이 있다면요.이
+학생이 뭘 말하려는지 이해되시나요 experiment
+when it's just light or particles traveling through empty space they must be exploring
+all possible paths because this is exactly how the math would work if you had infinite screens
+each infinite slits you have to add up the amplitude from each slit
+전해지는 이야기에 따르면이 학생은 바로 리처드 파인만이었습니다 실화인지 확실하진
+않지만 논리는 완벽합니다 because if you believe in a double slit experiment that you can't tell which
+of the two slits the particle went through then you have to consider the possibility that it goes through both by
+that same logic any time any particle goes from place one to place two you
+have to consider all the possible paths it could take to get there including ones that go faster than
+a speed of light including ones that go back in time and including ones that go to the sun and back feel like it
+can't go to the sun and back you have to restrict it to be local right so the map doesn't do that i mean you could see
+that just in the double slit experiment right and we'll do light because then there's no funky business with the speed if
+you're going to say like this path interferes with this path then these distances are different right and
+so clearly they can have the same speed so you need to consider that
+different speeds 타인만이 제한한 양자 역학적 관점에
+따르면 어떤 입자 광자 전자 아니면 거시적인 물체까지도 A 지점에서
+B점으로 이동할 때는 모든 가능한 경로로 이동할 가능성이 존재합니다
+굉장히 직관적이지 않지만 파인마는 실제로 그 모든 경로를 계산에 포함시켜야 한다고 밝혔습니다
+무슨 소리냐고요 설명해 드리죠 어떤 입자가 갈 수 있는 경로가 세 가지 있다고 생각해 보죠 노란선을 먼저
+보면 노란 경로를 따라 입자의 파동이 이동할 겁니다 출발할 때 스토워츠를
+누르고 노란 경로를 따라 이동하다가 도착 지점에 도달했을 때 스토치를 멈춰 보죠 두 번째 세 번째 경로도
+같은 방식으로 측정합니다 그러고 나서 각각의
+스토버치 바늘의 방향을 벡터로 보고 그 벡터를 모두 더했을 때 합벡터의
+길이를 제곱하면 입자가이 경로를 이용해서 도착했을 확률과 비례합니다
+지금 보시는 화면에선 사각형이 좀 작죠 방향이 다 달라서 상쇄되어
+합벡터가 짧아진 겁니다 반대로 만약 경로들의 조건이 비슷해서 벡터들이
+비슷한 방향을 가르킨다면 합벡터가 훨씬 커지게 되고 그 확률은 높아집니다 즉 화살표가 클수록이
+사건이 발생할 확률이 높습니다 사실 스토워치가 실제로 재는 건 시간이
+How Feynman Did Quantum Mechanics
+아닙니다 스토버워치가 재고 있는 건 바로 위상입니다 이중 슬리시럼과 동일한
+원리죠 이동하는 건 파동이고 위상을 지니고 있습니다 다른 경로로 이동하게 되면 위상 차이가 발생하게 되는 거고
+그 위상이 파동 진폭의 세기를 결정하는
+겁니다.이 스토워버워치를 수학적으로 표현하면 이렇게 나타낼 수 있습니다
+2의 i파이제곱 여기서 파이는 위상입니다 입자의 파동이 경로를 따라
+이동하는 동안 위상은 계속 증가하면서 벡터가 회전하게 됩니다 이때 경로가
+달라지면 위상이 어떻게 얼마나 변할까요?이를 알기 위해선 경로를
+아주 작은 구간으로 나눌 수 있습니다 각 구간이 거의 직선처럼 보일 정도로
+작게요 그 구간마다 입자의 파동은 작은 거리 델타 X를 작은 시간 델타
+T 동안 이동합니다.이 구간에서 위상의 변화량은 파장의 길이와 주파수에 따라 결정되죠
+모든 구간에서 위상 변화량을 전부 더하면 전체 경로에 대한 총 위상
+변화를 구할 수 있습니다 드 브로이의 파장식 람다는
+mv분 h와 에너지식 2는 hf를 이용해서이 위상 변화를 정리할 수
+있습니다 그리고 h는 2파를 사용하면 이렇게 간략화된 식으로 나타낼 수
+있죠 마지막으로 시간 변화량 델타 t를 이동시키고 변화량의 개념을
+사용하면 구간의 합을 적분으로 바꿀 수 있습니다 여기서 dt dx는
+속도와 같죠 따라서 mv 제곱으로 쓸 수 있습니다 그리고 에너지는 운동
+에너지와 위치 에너지의 합입니다 이걸 대입하면 운동 에너지와 포텐셜 에너지의 차이를
+시간에 대해 적분한 값으로 결정됩니다 그런데 이거 이거 맞아요
+이거 작용입니다 작용량에 따라서이 스토버치가 얼마나 빠르게 회전하는지
+결정되는 겁니다 경로를 따라 입자가 이동하면서 작용량이 증가하는만큼
+위상이 증가하는 겁니다 여기서 재밌는 사실이 하나 있습니다 플랑크 상수 H반는 엄청나게
+작은 값입니다 10의 -34줄초 정도로 평범한 물체들이
+가지는 작용에 비하면 너무나도 작죠 이게 무슨 의미냐면 일반적인 물체들이
+일반적인 경로를 따라 움직일 때 스토버치가 어마무시하게 빠르게 회전한다는 겁니다 결국엔 방향이
+랜덤에 가깝죠 경로가 아주 아주 살짝 바뀌어서 작용이 0.01초 정도
+달라졌다고 하면이 작은 변화가 H 바로 나누게 되면 무려 10의 32제곱번 더
+회전하게 되는 거고 결국엔 그 벡터가 아무 방향이나 가르키는 것과 다름이 없는 거죠 이게 바로 거의 대부분의
+경로들에서 일어나는 일입니다 경로마다 위상이 제각 돌아가기 때문에 결국
+상세 간섭이 일어나는 거죠
+작용이 최소값 근처에 있는 경로들은 경로를 아주 조금 바꾼다고 해도 작용값이 거의 변하지 않습니다
+1차근사로 보면 변화가 거의 없죠 그래서 그 주변 경로들의 위상
+벡터들은 거의 같은 방향을 가르키게 되고 그 벡터들을 더하면 보관섭이
+일어나게 됩니다 이게 바로 우리가 관측하는 경로 그것인 거죠
+빛이 어디로 가야 할지 아는 것처럼 보이는 이유가 바로 이겁니다 사실 빛이 뭘 알고 가는게 아닙니다 빛은
+사실 모든 가능한 경로를 동시에 모두 시도하고 있는 겁니다 그리고 모두
+상쇄되어서 최종적으로 남은 경로가 최소 작용 경로인 거죠 so
+really this is how classical mechanics emerges from qu mechanics it's why a
+ball follows the trajectory it does and how planets orbit the sun
+trajectory 다만 질량이 큰 입자일수록 작용값이 커지기 때문에
+결국 최소 작용 경로 주변에 아주 작은 영역만 남게 됩니다 그래서 입자처럼 보이는 거죠 반대로 전자나
+광자처럼 아주 작은 입자들은 작용값 자체가 훨씬 작기 때문에 결국 실제로
+가능한 경로들은 더 많게 되는
+것입니다 i still don't believe has this incredible demo that
+should convince you 100% that this is really how
+works to do it I've got a light a mirror and a camera now there are infinitely
+many paths that the light could take and according to finement we have to add up the contributions of
+each of them including paths that go like this now you might say he's crazy
+Proof That Light Takes Every Path
+i'm not crazy that's what happens another possibility is it could come here and
+go or it could come here and go or it could come where you like it to come and
+go and it can go over here and go and so on and so on and
+these are all possibilities and every single one of these paths has their own little arrows so what we
+can do is we can look at all those arrows and see where they line up and so if I turn on this light that's exactly
+where you see it reflect so that the angle of incidence is equal to the angle of reflection
+but now what I'm going to do is I'm going to cover up that spot so that we no longer see the light reflect and
+then I'm going to prove that 5 is right that really light also goes like this it's just that
+most of the time those effects are canceled out now that sounds impossible right but
+let's zoom into this tiny piece right here then we see all these different paths and all the
+arrows just go around and around in circles so when you add them up they all just cancel out but
+what if I cover up about half of them like so well now when I add up those
+arrows you suddenly do see a large resulting arrow and so if I can somehow cover up this mirror
+in many tiny strips then I should be able to get the light to reflect like this and I can
+do that with this piece of foil right here on this piece of foil there are about 1000 lines per
+millimeter and that should be enough to get this effect so let me turn off the
+lights so let's see i'm going to turn it on in 3 two
+one we see it we see it ah that is so
+cool it actually looks a lot weirder than I was expecting it to i was expecting more like one spot but there's
+many many spots where it's reflecting ooh ok and just to show I
+haven't been cheating you right underneath is my finger and even with
+the light on you know we see the light reflect and if we remove the cover
+then what do we see yeah we see exactly
+the normal reflection where it's always supposed to go which is right there and then we've got now all these
+extra reflections all these extra bits where the pattern just lines up so
+very very cool when I was talking about this with a friend actually he said "Yeah but you're using a diffraction
+grading that's kind of like cheating you get all these other reflections right now and this light is just going in all
+directions." And so there's one other thing I've been super super curious to try i also want
+to do this with a laser where I shine the laser right next to it and then if light does take
+every possible path we should also see it come off here it probably shouldn't work actually have a
+laser right over here and we can see when I shine
+it it really does just go to one spot and you can see where that spot is it's right over
+there which is about the same place where we had our reflection and you can also see right
+now we look at this view that you cannot see the laser light at all right like I
+could see the laser but I have to bring it down all the way over here and then I'm able to sort of
+see the light but if I just put it up here you can't see the reflection now
+what I'm going to do next is I'm going to put this foil this magic foil and I'm
+going to put it over here oh and we can turn off this and now let's see what happens when I turn
+on the [음악] lasers wait wait
+wait wait no way no way it works
+it works wait what look where the laser is going
+oh my god it actually works what what this
+is definitely the coolest demo I've ever done so what I was doing is I was holding the laser
+and I can show you right now i was shining it down like this way off and you
+could still see it reflect but if I take this away it disappears and if I
+put this back it appears so that is shows really that we
+cannot get rid of the area which gives zero that it really is cancelling out
+and if we do clever things to it we can demonstrate the reality of the reflections from
+this part of the [음악] mirror so light and
+by extension everything really does explore all possible paths it's just that most of
+the time the crazy paths destructively interfere that's because the actions of nearby paths
+change rapidly now I've studied physics for most of my life and I feel like I never really
+appreciated how important action and the principle of least action are but now I think I
+finally get it and I finally get why if you ask theoretical physicists what they're working on they'll rarely talk
+about energy or forces most of the time they'll talk about action nobody
+in particle physics approaches particle physics from a viewpoint other than
+least action but we teach physics historically and least action is
+almost like the new kid on the block for understandings and so yeah we build up in
+reality once you realize 법칙을 찾고
+싶으시다고요 라그랑지한 수식을 적으시고 적분하시면 작용을 얻을 수 있고 자연스럽게 물리법칙들이 나옵니다
+고전 역학 특수 상대성 이론 천자기약 모두 다 나올 수
+있죠 you can apply it in different places in exactly the same way the hunt for the
+theory of everything right the thing that will encompass all of physics in reality what people are asking is what
+what is this lagrangian that can spit out all of the laws of physics in this universe that's
+really what they're asking the moment we haven't really found that right because we can we can sticky
+The Theory of Everything
+tape things together but we don't know if that's the proper mathematical structure so that's what people are hunting for
