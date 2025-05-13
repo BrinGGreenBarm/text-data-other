@@ -4,6 +4,9 @@ Fill in the background and stretch it
 캐릭터를 지우고 배경으로 채워
 Erase the character and fill it with background
 
+글자를 지우고 배경으로 채워
+Erase the text and fill it with background
+
 부드러운 수채화 스타일, 아기자기하고 따뜻한 느낌, 아이들을 위한 그림책 스타일입니다.
 이 그림은 그림책 양쪽 페이지를 펼쳤을 때 양쪽으로 나뉘는 구조입니다.
 그림 중앙에는 캐릭터가 오지 않도록 하고, 캐릭터는 왼쪽이나 오른쪽에 배치합니다.
