@@ -1,0 +1,5 @@
+배경을 채워서 늘려줘
+Fill in the background and stretch it
+
+캐릭터를 지우고 배경으로 채워
+Erase the character and fill it with background
